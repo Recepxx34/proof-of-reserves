@@ -5,6 +5,7 @@
   "repository": "https://github.com/gateio/proof-of-reserves",
   "bugs": "https://github.com/gateio/proof-of-reserves/issues",
   "dependencies": {
+    "@mempool/mempool.js": "^2.3.0",
     "body-parser": "^1.18.3",
     "browserify": "^16.5.0",
     "compressing": "^1.3.2",
